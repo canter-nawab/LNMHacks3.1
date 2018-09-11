@@ -1400,6 +1400,10 @@ div#js-clock {
 
 }
 @media(max-width: 1440px){
+  .te{
+    margin-top: 15% !important;
+    background: transparent !important;
+  }
   .lnmhack_3{
       margin-top: -2% !important;
       margin-left: -5% !important;
@@ -1858,7 +1862,7 @@ div#js-clock {
     align : left !important;
     size: 20% !important;
     font-size: 20px !important;
-    margin-top: 9.5% !important;
+    margin-top: 18% !important;
     margin-bottom: 5% !important  ;
   }
   video{

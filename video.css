@@ -19,10 +19,10 @@ video{
 
 .video-text {
     position: relative;
-    z-index: 2 ;
+    z-index: 5 ;
     color: white;
     height: inherit;
     width: inherit;
-    background: rgba(0,0,0,0.4);
+    
 
 }
