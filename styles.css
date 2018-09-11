@@ -1865,5 +1865,11 @@ div#js-clock {
     min-width: 100% !important;
     min-height: 100% !important;
   }
+  .icons{
+    margin-left: 30% !important;
+  }
+  .contact-content{
+    display: none !important;
+  }
 }
 
